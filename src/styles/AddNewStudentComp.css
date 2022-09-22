@@ -1,0 +1,8 @@
+#button-addstudent{
+    float: right;
+    padding: 10px 25px;
+    text-align: center;
+    border-radius: 7px;
+    color: white;
+    background-color: rgb(129, 91, 235);
+}

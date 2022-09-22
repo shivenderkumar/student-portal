@@ -1,0 +1,32 @@
+.form-input-item-container{
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px #ccc ;
+    background-color: white;
+}
+
+label{
+    color: rgb(82, 80, 80);
+}
+
+input{
+    font-size: 16px;
+    border: 0;
+    outline: 0;
+    width: 80%;
+    margin: 10px 0px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #ccc;
+    transition: 0.5s
+}
+
+input:focus{
+    border-bottom: 2px solid rgb(129, 91, 235);
+}
+
+.err-object{
+    font-size: 12px;
+    color: red;
+}
